@@ -1,5 +1,12 @@
 # Intent Cluster Analysis
 
+<!-- Hits counter badge -->
+<div id="badges">
+  <a href="https://hits.sh/github.com/williamzebrowskI/Intent-Cluster-Analysis/">
+    <img src="https://hits.sh/github.com/williamzebrowskI/Intent-Cluster-Analysis/hits.svg" alt="Hits"/>
+  </a>
+</div>
+
 ## Semantic Intent Similarity Detection and Model Confusion Reduction
 
 This repository contains the process and code for clustering intent examples based on their semantic similarity. The aim is to group similar intent examples together to reduce model confusion and improve intent detection accuracy.
