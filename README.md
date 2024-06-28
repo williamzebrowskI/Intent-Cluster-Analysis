@@ -29,11 +29,3 @@ The following diagram illustrates the overall process of semantic intent similar
    
 6. **Output of Clusters**:
    - Group similar intent examples together, providing insights into which examples are closely related in terms of their semantic content.
-
-## Installation
-
-To run the code, you need to install the required Python packages. You can do this by running:
-
-```sh
-pip install spacy scikit-learn
-python -m spacy download en_core_web_sm
